@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'yize';
-    src: url('https://img.yize.me/static/fonts/lolizi.woff');
+    src: url('/static/fonts/lolizi.woff');
     font-weight: normal;
     font-style: normal;
 }
